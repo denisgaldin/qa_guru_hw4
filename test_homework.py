@@ -1,5 +1,5 @@
+import math
 import random
-from math import pi
 
 def test_greeting():
     """
